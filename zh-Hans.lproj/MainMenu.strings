@@ -365,6 +365,9 @@
 /* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "417-H3-GG8"; */
 "417-H3-GG8.title" = "检查更新";
 
+/* Class = "NSMenuItem"; title = "Clear Artworks Cache"; ObjectID = "8xC-08-ueU"; */
+"8xC-08-ueU.title" = "清除封面缓存";
+
 /* Class = "NSMenuItem"; title = "Show Time Elapsed"; ObjectID = "IA8-8X-VJS"; */
 "IA8-8X-VJS.title" = "显示已播放时间";
 
