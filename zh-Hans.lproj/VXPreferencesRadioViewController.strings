@@ -1,0 +1,39 @@
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "09X-XY-fSi"; */
+"09X-XY-fSi.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Unlock 30,000+ Stations"; ObjectID = "1lY-rQ-aTN"; */
+"1lY-rQ-aTN.title" = "解锁 30,000+ 电台";
+
+/* Class = "NSButtonCell"; title = "Login"; ObjectID = "1tN-rg-Syx"; */
+"1tN-rg-Syx.title" = "登录";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "2FL-Um-IrL"; */
+"2FL-Um-IrL.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "Reload Radio database"; ObjectID = "DoQ-wD-JX7"; */
+"DoQ-wD-JX7.title" = "重装电台数据库";
+
+/* Class = "NSTextFieldCell"; placeholderString = "e-mail"; ObjectID = "EL7-Mz-656"; */
+"EL7-Mz-656.placeholderString" = "电子邮件";
+
+/* Class = "NSTextFieldCell"; title = "Pandora Radio"; ObjectID = "HMa-JL-mQN"; */
+"HMa-JL-mQN.title" = "Pandora 电台";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "P9w-NL-5gQ"; */
+"P9w-NL-5gQ.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "cOv-cf-dUh"; */
+"cOv-cf-dUh.title" = "用户名：";
+
+/* Class = "NSButtonCell"; title = "Allow VOX to use location of your Mac"; ObjectID = "gjI-q5-UUD"; */
+"gjI-q5-UUD.title" = "允许 VOX 使用你的 Mac 位置";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "password"; ObjectID = "qDA-ep-kZE"; */
+"qDA-ep-kZE.placeholderString" = "密码";
+
+/* Class = "NSButtonCell"; title = "Restore Purchases"; ObjectID = "tMf-db-7bJ"; */
+"tMf-db-7bJ.title" = "恢复购买";
+
+/* Class = "NSTextFieldCell"; title = "Unlock more than 30.000 worldwide radiostations"; ObjectID = "uO2-qR-jAP"; */
+"uO2-qR-jAP.title" = "解锁全世界超过 30.000 广播电台";

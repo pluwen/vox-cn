@@ -1,0 +1,33 @@
+
+/* Class = "NSWindow"; title = "Sandbox expanding"; ObjectID = "1"; */
+"1.title" = "Sandbox 扩展";
+
+/* Class = "NSButtonCell"; title = "Grant access to whole file system"; ObjectID = "33"; */
+"33.title" = "授予访问整个文件系统";
+
+/* Class = "NSTextFieldCell"; title = "Music inside this folder requires your permissions:"; ObjectID = "37"; */
+"37.title" = "音乐这个文件夹内需要你的权限：";
+
+/* Class = "NSButtonCell"; title = "FOLDER PATH"; ObjectID = "41"; */
+"41.title" = "文件夹路径";
+
+/* Class = "NSTextFieldCell"; title = "or"; ObjectID = "OOb-tu-pWD"; */
+"OOb-tu-pWD.title" = "或";
+
+/* Class = "NSTextFieldCell"; title = "сlick to see the path"; ObjectID = "OQK-0L-LW5"; */
+"OQK-0L-LW5.title" = "单击图标可以查看该路径";
+
+/* Class = "NSButtonCell"; title = "Allow VOX to play music from folders"; ObjectID = "SGn-Zw-XlK"; */
+"SGn-Zw-XlK.title" = "允许 VOX 从文件夹播放音乐";
+
+/* Class = "NSTextFieldCell"; title = "Allow VOX Player to play music from any folder on your Mac: "; ObjectID = "VG0-81-cP7"; */
+"VG0-81-cP7.title" = "允许 VOX 播放器从你的 Mac 上的任意文件夹播放音乐：";
+
+/* Class = "NSTextFieldCell"; title = "You can also use the Drag & Drop feature"; ObjectID = "XO7-hz-CqV"; */
+"XO7-hz-CqV.title" = "你也可以使用拖放功能";
+
+/* Class = "NSButtonCell"; title = "Why do you see this window?"; ObjectID = "axd-gg-XXm"; */
+"axd-gg-XXm.title" = "你为什么看到这个窗口？";
+
+/* Class = "NSButtonCell"; title = "Restrict VOX to play music from folders"; ObjectID = "m9v-B7-E8q"; */
+"m9v-B7-E8q.title" = "限制 VOX 从文件夹播放音乐";

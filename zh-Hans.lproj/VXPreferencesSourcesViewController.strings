@@ -1,0 +1,81 @@
+
+/* Class = "NSButtonCell"; title = "Sync with iTunes Library"; ObjectID = "1S6-ji-p8r"; */
+"1S6-ji-p8r.title" = "同步 iTunes 资料库";
+
+/* Class = "NSButtonCell"; title = "Notify me when new tracks are available"; ObjectID = "37w-Vg-4sv"; */
+"37w-Vg-4sv.title" = "当有新曲目时通知我";
+
+/* Class = "NSButtonCell"; title = "Clear default playlist before adding files"; ObjectID = "Den-i4-n1J"; */
+"Den-i4-n1J.title" = "添加文件之前清除默认播放列表";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "FSt-zR-Wmv"; */
+"FSt-zR-Wmv.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Update iTunes library on VOX startup"; ObjectID = "G3d-uv-RMk"; */
+"G3d-uv-RMk.title" = "在 VOX 启动时更新 iTunes 资料库";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "I6h-k6-phE"; */
+"I6h-k6-phE.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Add all music and playlist files"; ObjectID = "IL8-Uy-fCW"; */
+"IL8-Uy-fCW.title" = "添加所有的音乐和播放列表文件";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "QSU-pn-hFC"; */
+"QSU-pn-hFC.title" = "登出";
+
+/* Class = "NSTextFieldCell"; title = "Collections:"; ObjectID = "RFg-bP-EBj"; */
+"RFg-bP-EBj.title" = "精选集：";
+
+/* Class = "NSButtonCell"; title = "Enable scrobbling"; ObjectID = "RRT-pa-g7P"; */
+"RRT-pa-g7P.title" = "启用歌曲记录";
+
+/* Class = "NSTextFieldCell"; title = "Your account:"; ObjectID = "TBt-2k-XWE"; */
+"TBt-2k-XWE.title" = "你的帐户：";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "U4R-2R-b4d"; */
+"U4R-2R-b4d.title" = "登录";
+
+/* Class = "NSButtonCell"; title = "Reload iTunes Library Completely"; ObjectID = "VkW-TI-rxF"; */
+"VkW-TI-rxF.title" = "重新完整加载 iTunes 资料库";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "WiT-9P-uwa"; */
+"WiT-9P-uwa.title" = "登出";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "YaH-tP-Ifw"; */
+"YaH-tP-Ifw.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Add only the first playlist file available"; ObjectID = "cnI-cd-kUm"; */
+"cnI-cd-kUm.title" = "添加唯一可用的文件到播放列表";
+
+/* Class = "NSButtonCell"; title = "Keep non-existing files when loading iTunes library"; ObjectID = "g1v-2R-wfn"; */
+"g1v-2R-wfn.title" = "装载 iTunes 资料库时保持不存在的文件";
+
+/* Class = "NSTextFieldCell"; title = "Your account:"; ObjectID = "iaJ-Hj-u2I"; */
+"iaJ-Hj-u2I.title" = "你的帐户：";
+
+/* Class = "NSButtonCell"; title = "Autoload music from folder"; ObjectID = "jDj-N4-H2f"; */
+"jDj-N4-H2f.title" = "从文件夹中自动加载音乐";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "je9-dS-YLD"; */
+"je9-dS-YLD.title" = "登入";
+
+/* Class = "NSTextFieldCell"; title = "SoundCloud:"; ObjectID = "m11-vN-IWd"; */
+"m11-vN-IWd.title" = "SoundCloud：";
+
+/* Class = "NSMenuItem"; title = "Add only music files, ignore playlist files"; ObjectID = "qgJ-Ja-RLu"; */
+"qgJ-Ja-RLu.title" = "只添加音乐文件,忽略播放列表文件";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "qjG-yI-UA9"; */
+"qjG-yI-UA9.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "When you're adding folders to Playlist / Collections:"; ObjectID = "rht-ML-6t9"; */
+"rht-ML-6t9.title" = "你要添加文件夹到播放列表/精选集：";
+
+/* Class = "NSTextFieldCell"; title = "Last.fm:"; ObjectID = "u5g-x5-Adi"; */
+"u5g-x5-Adi.title" = "Last.fm：";
+
+/* Class = "NSButtonCell"; title = "Send current track info"; ObjectID = "uUy-e4-lTT"; */
+"uUy-e4-lTT.title" = "发送当前曲目信息";
+
+/* Class = "NSTextFieldCell"; title = "iTunes:"; ObjectID = "zTK-Tc-U4F"; */
+"zTK-Tc-U4F.title" = "iTunes:";

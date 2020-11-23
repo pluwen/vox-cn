@@ -1,0 +1,390 @@
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
+"29.title" = "主菜单";
+
+/* Class = "NSMenuItem"; title = "VOX"; ObjectID = "56"; */
+"56.title" = "VOX";
+
+/* Class = "NSMenu"; title = "VOX"; ObjectID = "57"; */
+"57.title" = "VOX";
+
+/* Class = "NSMenuItem"; title = "About VOX"; ObjectID = "58"; */
+"58.title" = "关于 VOX";
+
+/* Class = "NSMenuItem"; title = "Open..."; ObjectID = "72"; */
+"72.title" = "打开...";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
+"103.title" = "帮助";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "106"; */
+"106.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Visit Support Forums"; ObjectID = "111"; */
+"111.title" = "访问支持论坛";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"124.title" = "播放最近的";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"125.title" = "播放最近的";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"126.title" = "清除菜单";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "偏好设置…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Hide VOX"; ObjectID = "134"; */
+"134.title" = "隐藏 VOX";
+
+/* Class = "NSMenuItem"; title = "Quit VOX"; ObjectID = "136"; */
+"136.title" = "退出 VOX";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "隐藏其他";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "全部显示";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "25951"; */
+"25951.title" = "显示";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "25952"; */
+"25952.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "Player"; ObjectID = "25954"; */
+"25954.title" = "播放器";
+
+/* Class = "NSMenuItem"; title = "Equalizer"; ObjectID = "25956"; */
+"25956.title" = "均衡器";
+
+/* Class = "NSMenuItem"; title = "Vox Help"; ObjectID = "30035"; */
+"30035.title" = "Vox 帮助";
+
+/* Class = "NSMenuItem"; title = "Visit VOX Website"; ObjectID = "30037"; */
+"30037.title" = "访问 VOX 网站";
+
+/* Class = "NSMenuItem"; title = "Playlist"; ObjectID = "30221"; */
+"30221.title" = "播放列表";
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "30774"; */
+"30774.title" = "调试";
+
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "30775"; */
+"30775.title" = "调试";
+
+/* Class = "NSMenuItem"; title = "Controls"; ObjectID = "30785"; */
+"30785.title" = "控制";
+
+/* Class = "NSMenu"; title = "Controls"; ObjectID = "30786"; */
+"30786.title" = "控制";
+
+/* Class = "NSMenuItem"; title = "Play"; ObjectID = "30787"; */
+"30787.title" = "播放";
+
+/* Class = "NSMenuItem"; title = "Move Forward"; ObjectID = "30788"; */
+"30788.title" = "快进";
+
+/* Class = "NSMenuItem"; title = "Move Backward"; ObjectID = "30789"; */
+"30789.title" = "后退";
+
+/* Class = "NSMenuItem"; title = "Increase Volume"; ObjectID = "30791"; */
+"30791.title" = "升高音量";
+
+/* Class = "NSMenuItem"; title = "Decrease Volume"; ObjectID = "30792"; */
+"30792.title" = "降低音量";
+
+/* Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "30804"; */
+"30804.title" = "随机播放";
+
+/* Class = "NSMenuItem"; title = "Sort iTunes Albums"; ObjectID = "30811"; */
+"30811.title" = "排序 iTunes 专辑";
+
+/* Class = "NSMenu"; title = "Sort iTunes Albums"; ObjectID = "30812"; */
+"30812.title" = "排序 iTunes 专辑";
+
+/* Class = "NSMenuItem"; title = "By Artist, then Album Title"; ObjectID = "30813"; */
+"30813.title" = "按艺术家，然后专辑名称";
+
+/* Class = "NSMenuItem"; title = "By Artist, then Album Year"; ObjectID = "30814"; */
+"30814.title" = "按艺术家，然后专辑年代";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "30818"; */
+"30818.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Go to Current Track"; ObjectID = "30824"; */
+"30824.title" = "前往当前曲目";
+
+/* Class = "NSMenuItem"; title = "Music Sources"; ObjectID = "30827"; */
+"30827.title" = "音乐来源";
+
+/* Class = "NSMenu"; title = "Music Sources"; ObjectID = "30828"; */
+"30828.title" = "音乐来源";
+
+/* Class = "NSMenuItem"; title = "Provide Feedback"; ObjectID = "30841"; */
+"30841.title" = "提供反馈";
+
+/* Class = "NSMenuItem"; title = "Show debug window"; ObjectID = "30843"; */
+"30843.title" = "显示调试窗口";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "30848"; */
+"30848.title" = "编辑";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "30849"; */
+"30849.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Copy Current Track Info"; ObjectID = "30850"; */
+"30850.title" = "拷贝当前曲目信息";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "30852"; */
+"30852.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Delete and Move to Trash"; ObjectID = "30853"; */
+"30853.title" = "删除并移动到废纸篓";
+
+/* Class = "NSMenuItem"; title = "Mute"; ObjectID = "30860"; */
+"30860.title" = "静音";
+
+/* Class = "NSMenuItem"; title = "Repeat Mode"; ObjectID = "30874"; */
+"30874.title" = "重复模式";
+
+/* Class = "NSMenu"; title = "Repeat Mode"; ObjectID = "30875"; */
+"30875.title" = "重复模式";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "30876"; */
+"30876.title" = "关";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "30877"; */
+"30877.title" = "全部";
+
+/* Class = "NSMenuItem"; title = "One"; ObjectID = "30878"; */
+"30878.title" = "单曲";
+
+/* Class = "NSMenuItem"; title = "By Album Title"; ObjectID = "30887"; */
+"30887.title" = "按专辑名称";
+
+/* Class = "NSMenuItem"; title = "Open Stream..."; ObjectID = "30893"; */
+"30893.title" = "打开流...";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "30896"; */
+"30896.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "30897"; */
+"30897.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Show Search"; ObjectID = "30905"; */
+"30905.title" = "显示搜索";
+
+/* Class = "NSMenuItem"; title = "Show track info window"; ObjectID = "30907"; */
+"30907.title" = "显示曲目信息窗口";
+
+/* Class = "NSMenuItem"; title = "Network streams support"; ObjectID = "30910"; */
+"30910.title" = "网络流支持";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "30920"; */
+"30920.title" = "窗口";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "30921"; */
+"30921.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "30922"; */
+"30922.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "30923"; */
+"30923.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "30924"; */
+"30924.title" = "前置全部窗口";
+
+/* Class = "NSMenuItem"; title = "Always on Top"; ObjectID = "30944"; */
+"30944.title" = "总在最上层";
+
+/* Class = "NSMenuItem"; title = "Welcome to VOX"; ObjectID = "30950"; */
+"30950.title" = "欢迎使用 VOX";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "30952"; */
+"30952.title" = "编辑";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "30953"; */
+"30953.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "30954"; */
+"30954.title" = "撤销";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "30955"; */
+"30955.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "30957"; */
+"30957.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "30958"; */
+"30958.title" = "拷贝";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "30959"; */
+"30959.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "30960"; */
+"30960.title" = "粘贴并匹配样式";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "30961"; */
+"30961.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "30962"; */
+"30962.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "30964"; */
+"30964.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "30965"; */
+"30965.title" = "拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "30966"; */
+"30966.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "30967"; */
+"30967.title" = "转换";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "30968"; */
+"30968.title" = "语音";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "30969"; */
+"30969.title" = "语音";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "30970"; */
+"30970.title" = "开始朗读";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "30971"; */
+"30971.title" = "停止朗读";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "30972"; */
+"30972.title" = "转换";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "30973"; */
+"30973.title" = "变为大写";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "30974"; */
+"30974.title" = "变为小写";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "30975"; */
+"30975.title" = "首字母大写";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "30976"; */
+"30976.title" = "替换";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "30977"; */
+"30977.title" = "显示替换";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "30979"; */
+"30979.title" = "智能拷贝/粘贴";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "30980"; */
+"30980.title" = "智能引号";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "30981"; */
+"30981.title" = "智能破折号";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "30982"; */
+"30982.title" = "智能链接";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "30983"; */
+"30983.title" = "数据检测器";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "30984"; */
+"30984.title" = "文本替换";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "30985"; */
+"30985.title" = "拼写";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "30986"; */
+"30986.title" = "显示拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "30987"; */
+"30987.title" = "立即检查文稿";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "30989"; */
+"30989.title" = "键入时检查拼写";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "30990"; */
+"30990.title" = "检查拼写和语法";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "30991"; */
+"30991.title" = "自动纠正拼写";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "30992"; */
+"30992.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "30993"; */
+"30993.title" = "查找…";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "30994"; */
+"30994.title" = "查找下一个";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "30995"; */
+"30995.title" = "查找上一个";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "30996"; */
+"30996.title" = "查找所选内容";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "30997"; */
+"30997.title" = "跳到所选内容";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "31023"; */
+"31023.title" = "查找与替换…";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "31030"; */
+"31030.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "31033"; */
+"31033.title" = "撤销";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "31042"; */
+"31042.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Sync with iTunes Library"; ObjectID = "31119"; */
+"31119.title" = "同步 iTunes 资料库";
+
+/* Class = "NSMenuItem"; title = "Next Track"; ObjectID = "0Ql-gg-yTw"; */
+"0Ql-gg-yTw.title" = "下一个";
+
+/* Class = "NSMenuItem"; title = "Time Display Mode"; ObjectID = "1YQ-fr-4cj"; */
+"1YQ-fr-4cj.title" = "时间显示模式";
+
+/* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "417-H3-GG8"; */
+"417-H3-GG8.title" = "检查更新";
+
+/* Class = "NSMenuItem"; title = "Show Time Elapsed"; ObjectID = "IA8-8X-VJS"; */
+"IA8-8X-VJS.title" = "显示已播放时间";
+
+/* Class = "NSMenuItem"; title = "Save Playlist..."; ObjectID = "Pa6-n9-xMi"; */
+"Pa6-n9-xMi.title" = "存储播放列表...";
+
+/* Class = "NSMenuItem"; title = "Clear Current Collection"; ObjectID = "TAr-dR-nkG"; */
+"TAr-dR-nkG.title" = "清除当前精选集";
+
+/* Class = "NSMenuItem"; title = "Copy Track(s) Info to Clipboard"; ObjectID = "XLU-D1-oH4"; */
+"XLU-D1-oH4.title" = "拷贝已选曲目信息";
+
+/* Class = "NSMenuItem"; title = "Audio Units"; ObjectID = "qjr-cR-3Md"; */
+"qjr-cR-3Md.title" = "音频单元";
+
+/* Class = "NSMenuItem"; title = "Show Time Remaining"; ObjectID = "r06-LA-VPB"; */
+"r06-LA-VPB.title" = "显示剩余时间";
+
+/* Class = "NSMenu"; title = "Time Display Mode"; ObjectID = "uZR-sx-9Ak"; */
+"uZR-sx-9Ak.title" = "时间显示模式";
+
+/* Class = "NSMenuItem"; title = "Previous Track"; ObjectID = "vBH-1V-lNS"; */
+"vBH-1V-lNS.title" = "上一个";

@@ -1,0 +1,21 @@
+
+/* Class = "NSWindow"; title = "About VOX"; ObjectID = "1"; */
+"1.title" = "关于 VOX";
+
+/* Class = "NSTextFieldCell"; title = "2014 © Coppertino Inc. All rights reserved"; ObjectID = "162"; */
+"162.title" = "2020 © Coppertino 公司。版权所有";
+
+/* Class = "NSTextFieldCell"; title = "VOX Music Player"; ObjectID = "193"; */
+"193.title" = "VOX 音乐播放器";
+
+/* Class = "NSTextFieldCell"; title = "Version 1.5"; ObjectID = "215"; */
+"215.title" = "版本 1.5";
+
+/* Class = "NSButtonCell"; title = "Credits"; ObjectID = "264"; */
+"264.title" = "贡献";
+
+/* Class = "NSButtonCell"; title = "Support"; ObjectID = "279"; */
+"279.title" = "支持";
+
+/* Class = "NSButtonCell"; title = "Website"; ObjectID = "284"; */
+"284.title" = "网站";

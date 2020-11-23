@@ -1,0 +1,57 @@
+
+/* Class = "NSButtonCell"; title = "Use VOX for all file types"; ObjectID = "7im-wv-WZq"; */
+"7im-wv-WZq.title" = "所有文件类型使用 VOX";
+
+/* Class = "NSButtonCell"; title = "Save playing position"; ObjectID = "8UU-Zc-a7L"; */
+"8UU-Zc-a7L.title" = "存储播放器位置";
+
+/* Class = "NSButtonCell"; title = "Quit application after closing window"; ObjectID = "8WT-9q-dSX"; */
+"8WT-9q-dSX.title" = "关闭窗口后退出程序";
+
+/* Class = "NSTextFieldCell"; title = "Other:"; ObjectID = "G73-rV-nZ8"; */
+"G73-rV-nZ8.title" = "其他:";
+
+/* Class = "NSButtonCell"; title = "Pause on ejecting headphone jack"; ObjectID = "GrJ-Rs-Y4D"; */
+"GrJ-Rs-Y4D.title" = "拔出耳机插孔时暂停";
+
+/* Class = "NSButtonCell"; title = "Pause VOX on Skype Call"; ObjectID = "JWL-32-kgC"; */
+"JWL-32-kgC.title" = "Skype 通话暂停 VOX";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "KoE-mr-HI9"; */
+"KoE-mr-HI9.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Behavior:"; ObjectID = "QDK-VJ-HGS"; */
+"QDK-VJ-HGS.title" = "操作:";
+
+/* Class = "NSButtonCell"; title = "Automatically download missing artwork"; ObjectID = "SXg-Sf-s4O"; */
+"SXg-Sf-s4O.title" = "自动下载缺失的插图";
+
+/* Class = "NSButtonCell"; title = "Enable auto-charset detection"; ObjectID = "Wgh-mE-73B"; */
+"Wgh-mE-73B.title" = "启用自动字符集检测";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ahE-JZ-Egg"; */
+"ahE-JZ-Egg.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "fWu-UI-xoT"; */
+"fWu-UI-xoT.title" = "通用:";
+
+/* Class = "NSButtonCell"; title = "Keep player window on all spaces"; ObjectID = "gKL-ER-E51"; */
+"gKL-ER-E51.title" = "保持播放器窗口";
+
+/* Class = "NSButtonCell"; title = "Show warning when deleting files"; ObjectID = "nFB-XS-tLM"; */
+"nFB-XS-tLM.title" = "删除文件时显示警告";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ouK-JF-coj"; */
+"ouK-JF-coj.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Always on top of all windows"; ObjectID = "qDf-xN-gkI"; */
+"qDf-xN-gkI.title" = "始终显示播放器窗口";
+
+/* Class = "NSButtonCell"; title = "Send anonymous statistic information"; ObjectID = "slH-MI-sca"; */
+"slH-MI-sca.title" = "发送匿名统计信息";
+
+/* Class = "NSButtonCell"; title = "Fade on Play/Pause/Skip"; ObjectID = "wWK-xa-gNu"; */
+"wWK-xa-gNu.title" = "淡出播放/暂停/跳过";
+
+/* Class = "NSButtonCell"; title = "Use VOX for iTunes unsupported files only"; ObjectID = "yon-dd-ebg"; */
+"yon-dd-ebg.title" = "只有 iTunes 中不支持的文件使用 VOX";

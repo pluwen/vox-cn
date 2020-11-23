@@ -1,0 +1,159 @@
+
+/* Class = "NSMenuItem"; title = "Chu Moy"; ObjectID = "0TU-S4-CdR"; */
+"0TU-S4-CdR.title" = "Chu Moy";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "0n9-vu-j2T"; */
+"0n9-vu-j2T.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "5000 ms"; ObjectID = "2xB-6L-syY"; */
+"2xB-6L-syY.title" = "5000 毫秒";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "5AV-2o-ZLA"; */
+"5AV-2o-ZLA.title" = "Box";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "5eD-Vx-NGl"; */
+"5eD-Vx-NGl.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "6c9-0S-zcs"; */
+"6c9-0S-zcs.title" = "100%";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "8Ps-Q5-YiH"; */
+"8Ps-Q5-YiH.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "9jc-k5-18G"; */
+"9jc-k5-18G.title" = "默认";
+
+/* Class = "NSTextFieldCell"; title = "Right"; ObjectID = "AA0-RG-HAa"; */
+"AA0-RG-HAa.title" = "右声道";
+
+/* Class = "NSMenuItem"; title = "Before EQ and Effects"; ObjectID = "CTi-mK-xVW"; */
+"CTi-mK-xVW.title" = "前置均衡和效果";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "DTA-qL-hVZ"; */
+"DTA-qL-hVZ.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Volume Limit:"; ObjectID = "EI9-te-dq1"; */
+"EI9-te-dq1.title" = "音量限制:";
+
+/* Class = "NSButtonCell"; title = "Manually start each track"; ObjectID = "Ei2-iz-aXn"; */
+"Ei2-iz-aXn.title" = "手动启动每个曲目";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "IeK-FW-f6n"; */
+"IeK-FW-f6n.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Convert Stereo to multiple channels"; ObjectID = "JKg-Tc-29n"; */
+"JKg-Tc-29n.title" = "立体声转换为多声道";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Center"; ObjectID = "KlE-KU-iCH"; */
+"KlE-KU-iCH.placeholderString" = "中心";
+
+/* Class = "NSTextFieldCell"; title = "- 2 sec"; ObjectID = "LQT-Gf-9wP"; */
+"LQT-Gf-9wP.title" = "- 2 秒";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "OGK-s8-OwW"; */
+"OGK-s8-OwW.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "OSW-4X-J7a"; */
+"OSW-4X-J7a.title" = "标签";
+
+/* Class = "NSMenuItem"; title = "Multichannel"; ObjectID = "P6j-TK-xbh"; */
+"P6j-TK-xbh.title" = "立体声";
+
+/* Class = "NSTextFieldCell"; title = "BS2B Preset:"; ObjectID = "Pqn-9B-Gse"; */
+"Pqn-9B-Gse.title" = "BS2B 预置:";
+
+/* Class = "NSButtonCell"; title = "Obtain Exclusive Access (Hog Mode)"; ObjectID = "TdX-tv-SWX"; */
+"TdX-tv-SWX.title" = "获得独家访问 (Hog 模式)";
+
+/* Class = "NSTextFieldCell"; title = "Does not affect system default devices"; ObjectID = "UZ8-5X-qCh"; */
+"UZ8-5X-qCh.title" = "不影响系统的默认设备";
+
+/* Class = "NSTextFieldCell"; title = "Warning! This option may cause excessive memory usage"; ObjectID = "Uyk-3i-dWh"; */
+"Uyk-3i-dWh.title" = "警告！此选项可能会导致过多的内存使用情况";
+
+/* Class = "NSButtonCell"; title = "Synchronize Sample Rate with player"; ObjectID = "Xgg-uc-yNI"; */
+"Xgg-uc-yNI.title" = "同步采样率播放器";
+
+/* Class = "NSTextFieldCell"; title = "Output:"; ObjectID = "Yly-VQ-ZHZ"; */
+"Yly-VQ-ZHZ.title" = "输出:";
+
+/* Class = "NSTextFieldCell"; title = "200 ms"; ObjectID = "ZyY-9h-0Uk"; */
+"ZyY-9h-0Uk.title" = "200 毫秒";
+
+/* Class = "NSMenuItem"; title = "Jan Meier"; ObjectID = "ahj-Ey-F32"; */
+"ahj-Ey-F32.title" = "Jan Meier";
+
+/* Class = "NSButtonCell"; title = "Try to load music files fully into memory"; ObjectID = "bq8-l3-8bl"; */
+"bq8-l3-8bl.title" = "尝试完全加载音乐文件到内存";
+
+/* Class = "NSTextFieldCell"; title = "Priority:"; ObjectID = "cOi-Zb-wMI"; */
+"cOi-Zb-wMI.title" = "优先级:";
+
+/* Class = "NSButtonCell"; title = "Enable"; ObjectID = "coC-fc-3La"; */
+"coC-fc-3La.title" = "启用";
+
+/* Class = "NSTextFieldCell"; title = "Gap/\nOverlap:"; ObjectID = "dM0-Mg-pJ4"; */
+"dM0-Mg-pJ4.title" = "距离/\n交叠:";
+
+/* Class = "NSMenuItem"; title = "Mono"; ObjectID = "j7l-Nb-uuH"; */
+"j7l-Nb-uuH.title" = "单声道";
+
+/* Class = "NSMenuItem"; title = "System Default"; ObjectID = "lqK-D6-SjZ"; */
+"lqK-D6-SjZ.title" = "系统默认";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "mVA-SL-Vjh"; */
+"mVA-SL-Vjh.title" = "Box";
+
+/* Class = "NSSegmentedCell"; nEr-h7-hhc.ibShadowedLabels[0] = "Basic"; ObjectID = "nEr-h7-hhc"; */
+"nEr-h7-hhc.ibShadowedLabels[0]" = "基本";
+
+/* Class = "NSSegmentedCell"; nEr-h7-hhc.ibShadowedLabels[1] = "Advanced"; ObjectID = "nEr-h7-hhc"; */
+"nEr-h7-hhc.ibShadowedLabels[1]" = "高级";
+
+/* Class = "NSTextFieldCell"; title = "Channels:"; ObjectID = "oEQ-lu-O2Y"; */
+"oEQ-lu-O2Y.title" = "声道:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ojB-cf-tbX"; */
+"ojB-cf-tbX.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "200%"; ObjectID = "q3l-V0-bgb"; */
+"q3l-V0-bgb.title" = "200%";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "s0s-eR-k3m"; */
+"s0s-eR-k3m.title" = "Box";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "sBd-9n-xqf"; */
+"sBd-9n-xqf.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Left"; ObjectID = "ssP-ER-NWC"; */
+"ssP-ER-NWC.title" = "左声道";
+
+/* Class = "NSTextFieldCell"; title = "200 ms"; ObjectID = "tVt-im-dMJ"; */
+"tVt-im-dMJ.title" = "200 毫秒";
+
+/* Class = "NSTextFieldCell"; title = "Autopause:"; ObjectID = "uE1-ue-jMJ"; */
+"uE1-ue-jMJ.title" = "自动暂停:";
+
+/* Class = "NSMenuItem"; title = "After EQ and Effects"; ObjectID = "up2-Fb-Sue"; */
+"up2-Fb-Sue.title" = "后置均衡和效果";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "upY-gQ-EOa"; */
+"upY-gQ-EOa.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "(Overlap)"; ObjectID = "w6i-YI-s4s"; */
+"w6i-YI-s4s.title" = "(交叠)";
+
+/* Class = "NSTextFieldCell"; title = "+ 10 sec"; ObjectID = "wEc-fO-Xlh"; */
+"wEc-fO-Xlh.title" = "+ 10 秒";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "wck-3s-1CT"; */
+"wck-3s-1CT.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Restore Default Settings"; ObjectID = "xJ0-5U-9Ud"; */
+"xJ0-5U-9Ud.title" = "恢复默认设置";
+
+/* Class = "NSTextFieldCell"; title = "Balance:"; ObjectID = "yfE-ar-mXT"; */
+"yfE-ar-mXT.title" = "平衡：";
+
+/* Class = "NSTextFieldCell"; title = "Buffer:"; ObjectID = "zw2-a0-Y3o"; */
+"zw2-a0-Y3o.title" = "缓冲：";

@@ -1,0 +1,9 @@
+
+/* Class = "VXGenericWindow"; title = "Open Stream"; ObjectID = "1"; */
+"1.title" = "打开流";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "chc-p9-f9W"; */
+"chc-p9-f9W.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "wkV-gI-UyN"; */
+"wkV-gI-UyN.title" = "确定";

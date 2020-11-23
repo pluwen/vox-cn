@@ -1,0 +1,69 @@
+
+/* Class = "NSMenuItem"; title = "Disabled"; ObjectID = "3Xc-KQ-U2H"; */
+"3Xc-KQ-U2H.title" = "禁用";
+
+/* Class = "NSButtonCell"; title = "Show artwork in Dock"; ObjectID = "52Y-Qo-wAI"; */
+"52Y-Qo-wAI.title" = "Dock 显示插图";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Dbe-RV-X5M"; */
+"Dbe-RV-X5M.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Artist then Album (with animation)"; ObjectID = "DkH-gN-UZM"; */
+"DkH-gN-UZM.title" = "专辑插图（带动画）";
+
+/* Class = "NSMenuItem"; title = "Show When Application is Active"; ObjectID = "EyH-zb-s9Y"; */
+"EyH-zb-s9Y.title" = "显示当应用程序激活";
+
+/* Class = "NSTextFieldCell"; title = "Menu Bar:"; ObjectID = "Fmc-YY-1UV"; */
+"Fmc-YY-1UV.title" = "菜单栏：";
+
+/* Class = "NSMenuItem"; title = "Always Show Artwork"; ObjectID = "Lz5-jQ-54k"; */
+"Lz5-jQ-54k.title" = "总是显示插图";
+
+/* Class = "NSTextFieldCell"; title = "Notifications:"; ObjectID = "TtW-8y-1ox"; */
+"TtW-8y-1ox.title" = "通知：";
+
+/* Class = "NSButtonCell"; title = "Use single menu bar control"; ObjectID = "UFR-pn-wBa"; */
+"UFR-pn-wBa.title" = "使用单菜单栏控件";
+
+/* Class = "NSButtonCell"; title = "Show menu bar controls"; ObjectID = "Whp-S4-twh"; */
+"Whp-S4-twh.title" = "显示菜单栏的控件";
+
+/* Class = "NSTextFieldCell"; title = "Dock:"; ObjectID = "XD1-tr-p4F"; */
+"XD1-tr-p4F.title" = "Dock：";
+
+/* Class = "NSMenuItem"; title = "Notification Center"; ObjectID = "Yc3-D8-Drt"; */
+"Yc3-D8-Drt.title" = "通知中心";
+
+/* Class = "NSMenuItem"; title = "Show When Application is Inactive"; ObjectID = "bUr-hc-YB0"; */
+"bUr-hc-YB0.title" = "显示当应用程序无效";
+
+/* Class = "NSTextFieldCell"; title = "Mini Player:"; ObjectID = "bmO-IN-q77"; */
+"bmO-IN-q77.title" = "迷你播放器：";
+
+/* Class = "NSMenuItem"; title = "Artist with Album (no animation)"; ObjectID = "cDs-rl-hLU"; */
+"cDs-rl-hLU.title" = "专辑插图(无动画)";
+
+/* Class = "NSButtonCell"; title = "Show colored single menu bar icon"; ObjectID = "d4o-5x-dOk"; */
+"d4o-5x-dOk.title" = "显示一个彩色图标";
+
+/* Class = "NSButtonCell"; title = "Show Dock icon"; ObjectID = "dgP-yx-Mwr"; */
+"dgP-yx-Mwr.title" = "显示 Dock 图标";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "fRh-1h-PP6"; */
+"fRh-1h-PP6.title" = "Box";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "gQU-oG-gi5"; */
+"gQU-oG-gi5.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "kNz-4t-dv9"; */
+"kNz-4t-dv9.title" = "OtherViews";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "mKh-Qg-ZKL"; */
+"mKh-Qg-ZKL.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "q60-nR-MYr"; */
+"q60-nR-MYr.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Never Show Artwork"; ObjectID = "s44-z8-Axm"; */
+"s44-z8-Axm.title" = "从不显示插图";
